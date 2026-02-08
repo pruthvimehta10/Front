@@ -1,5 +1,7 @@
 # Dependencies
 node_modules/
+LMS/
+ko/
 
 # Environment variables
 .env
@@ -25,3 +27,6 @@ yarn-error.log*
 # OS files
 .DS_Store
 Thumbs.db
+
+# Other
+restart_app.bat
